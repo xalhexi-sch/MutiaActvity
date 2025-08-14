@@ -1,0 +1,12 @@
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\bin\Debug\AirconMonitor.exe
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\bin\Debug\AirconMonitor.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\bin\Debug\AirconMonitor.xml
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\obj\x86\Debug\AirconMonitor.Form1.resources
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\obj\x86\Debug\AirconMonitor.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\obj\x86\Debug\AirconMonitor.vbproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\obj\x86\Debug\AirconMonitor.exe
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\obj\x86\Debug\AirconMonitor.xml
+C:\Users\Student\AppData\Local\Temporary Projects\AirconMonitor\obj\x86\Debug\AirconMonitor.pdb
+C:\Users\Student\documents\visual studio 2010\Projects\AirconMonitor\AirconMonitor\obj\x86\Debug\AirconMonitor.exe
+C:\Users\Student\documents\visual studio 2010\Projects\AirconMonitor\AirconMonitor\obj\x86\Debug\AirconMonitor.xml
+C:\Users\Student\documents\visual studio 2010\Projects\AirconMonitor\AirconMonitor\obj\x86\Debug\AirconMonitor.pdb
